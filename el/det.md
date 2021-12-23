@@ -1,6 +1,6 @@
 DET: determiner
 
-#Definition
+#Definitions
 
 Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. Ιt is possible to replace a single determiner (that seems to function like a pronoun) with a synonymous full NP.
 The traditional grammar of Modern Greek does not specify the category “determiner”; rather it specifies definite and indefinite articles, adjectives and pronouns. 
@@ -34,4 +34,3 @@ Mackridge, Peter. 1985. The Modern Greek Language. A Descriptive Analysis of Sta
 Χρήστος Κλαίρης & Γεώργιος Μπαμπινώτης. 2001. Γραμματική της Νέας Ελληνικής Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
 Τζάρτζανος, Αχιλλέας, 2002. Νεοελληνική Σύνταξις της Κοινής Δημοτικής. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
 Τσοπανάκης, Αγαπητός Γ. (1994). Νεοελληνική γραμματική. Θεσσαλονίκη: Εκδοτικός Οίκος Αδελφών Κυριακίδη.
-edit viv
